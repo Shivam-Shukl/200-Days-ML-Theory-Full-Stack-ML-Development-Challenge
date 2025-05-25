@@ -63,17 +63,42 @@ So I started this 200-day challenge to:
 
 ---
 
-## 🧑‍💻 Contributing
+## 🤝 Contributing & Collaboration
 
-If you're also learning or want to help:
-- Fix bugs
-- Suggest project ideas or datasets
-- Improve code or README
-- Join me on a project
+I'm open to collaboration on this 200 Days ML Challenge!
 
-Feel free to fork and PR!
+If you'd like to:
+- Suggest ideas, features, or improvements
+- Fix bugs or improve code structure
+- Add your own ML/DL notebooks
+- Collaborate on future projects
 
----
+Please follow the steps below 👇
+
+### 🔁 Option 1: Fork + Pull Request (Recommended)
+1.  **Fork** this repository
+2.  Clone your fork locally:
+    ```bash
+    git clone [https://github.com/your-username/200DaysMLChallenge.git](https://github.com/your-username/200DaysMLChallenge.git)
+    ```
+3.  **Create a new branch:**
+    ```bash
+    git checkout -b feature-branch-name
+    ```
+4.  **Make your changes:**
+    *(After making your code/file changes)*
+    ```bash
+    git add .
+    git commit -m "Added new notebook for House Price Prediction"
+    ```
+5.  **Push to your fork:**
+    ```bash
+    git push origin feature-branch-name
+    ```
+6.  **Open a pull request** on the original repository – I'll review and merge!
+
+### 👥 Option 2: Become a Collaborator
+If you're planning to contribute regularly, feel free to DM me on LinkedIn or raise an issue. I'll consider adding you as a collaborator with write access.
 
 ## 📢 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-shukla-a462b3223/) 
