@@ -2,7 +2,7 @@
 
 Welcome to my personal learning journey:  
 **200 Days of Machine Learning (ML) Theory + Full-Stack ML Development**  
-📅 Duration: [Start Date] – [End Date]  
+📅 Duration: [24-05-2-24] – [09-12-2025]  
 🏷️ Hashtag: `#200DaysMLChallenge`
 
 ---
@@ -51,7 +51,7 @@ So I started this 200-day challenge to:
 
 | Week | Summary | Link |
 |------|---------|------|
-| Week 1 | house-prices-prediction-using-tensorflow-decision |((https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge/blob/main/Week001/house-prices-prediction-using-tensorflow-decision.ipynb))|
+| Week 1 | house-prices-prediction-using-tensorflow-decision |[Link to Repo]((https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge/blob/main/Week001/house-prices-prediction-using-tensorflow-decision.ipynb))|
 
 ---
 
