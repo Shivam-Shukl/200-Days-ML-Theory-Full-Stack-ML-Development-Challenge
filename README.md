@@ -51,7 +51,8 @@ So I started this 200-day challenge to:
 
 | Week | Summary | Link |
 |------|---------|------|
-| Week 1 | house-prices-prediction-using-tensorflow-decision |
+| Week 1 | house-prices-prediction-using-tensorflow-decision |((https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge/blob/main/Week001/house-prices-prediction-using-tensorflow-decision.ipynb))|
+
 ---
 
 ## 🎓 Educators I’m Learning From
