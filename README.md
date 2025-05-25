@@ -51,7 +51,7 @@ So I started this 200-day challenge to:
 
 | Week | Summary | Link |
 |------|---------|------|
-| Week 1 | i will edit this week on 20 May 2025.
+| Week 1 | house-prices-prediction-using-tensorflow-decision |
 ---
 
 ## 🎓 Educators I’m Learning From
