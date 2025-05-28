@@ -52,7 +52,7 @@ So I started this 200-day challenge to:
 | Week | Summary | Link |
 |------|---------|------|
 | Week 1 | house-prices-prediction-using-tensorflow-decision |[Link to Repo](https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge/blob/main/Week001/house-prices-prediction-using-tensorflow-decision.ipynb)|
-|        |Dialogflow telegram chatbot | [Link to Repo](https://github.com/Shivam-Shukl/dialogflow-telegram-chatbot)|
+|        |Telegram currency convertor bot(comic small talk) | [Link to Repo](https://github.com/Shivam-Shukl/Telegram-Currency-Converter-Bot)|
 
 ---
 
