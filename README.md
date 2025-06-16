@@ -58,15 +58,7 @@ So I started this 200-day challenge to:
 |        | Deployment on Render |[Link to Repo](https://github.com/Shivam-Shukl/Real-Estate-Price-Prediction---Bengaluru)|  |
 | Week 4| | |14 June to 21 June|
 
----
 
-## 🎓 Educators I’m Learning From
-- [Dhaval Patel (Codebasics)](https://www.linkedin.com/in/dhavalpatel1989/) — Thanks sir for your Hindi tutorials like **Potato Classifier**
-- [CampusX](https://www.youtube.com/c/CampusX) — Projects like *Movie Recommender*, *Spam Classifier*
-- [Krish Naik](https://www.youtube.com/c/KrishNaik)  
-- StatQuest, ML with Phil, and more
-
----
 
 ## 🤝 Contributing & Collaboration
 
